@@ -1,6 +1,6 @@
 # Hey, I'm Supun 👋
 
-I'm an embedded systems engineer based in Sri Lanka, currently building production systems at Richard Pieris & Company — robots, edge IoT infrastructure, battery management systems, and real-time video streaming platforms. Before this, I spent several years in Russia working across embedded electronics, fire safety systems, HVAC firmware, and nanofabrication research.
+I'm an embedded systems engineer, currently building production systems at Richard Pieris & Company — robots, edge IoT infrastructure, battery management systems, and real-time video streaming platforms. Before this, I spent several years in Russia working across embedded electronics, fire safety systems, HVAC firmware, and nanofabrication research.
 
 My background is a bit unusual. I started in nanotechnologies, moved through semiconductor physics and solar cell research, and ended up deep in firmware and hardware-software co-design. That path gives me a way of thinking about problems — from the electron level up to the cloud — that I find genuinely useful.
 
