@@ -30,13 +30,11 @@ I care about the full picture: schematic to PCB to firmware to backend to deploy
 
 **WebRTC Telepresence Robot Control Platform** — A production bidirectional video and audio streaming system deployed across a robot fleet. Hardware-accelerated H.264 encoding via V4L2, achieving under 100ms latency on Raspberry Pi 5, with serial motor control, PTZ camera control, and multiple WebSocket endpoints.
 
-**Production MQTT Edge Client** — A resilient edge computing client with offline queuing over SQLite, exponential backoff, QoS 0/1/2 support, dual storage architecture, and 24-hour soak tested. Built to survive real network failures, not just ideal conditions.
+**Production MQTT Edge Client** — A resilient edge computing client with offline queuing over SQLite, exponential backoff, QoS 0/1/2 support, dual storage architecture, TLS and authentication, health check daemon and 24-hour soak tested. Built to survive real network failures, not just ideal conditions.
 
 **6-Layer UPS Board for Raspberry Pi 5** — A custom 6-layer PCB with intelligent power management, BQ25750 synchronous buck-boost charger for 6S Li-ion/LiPo, dual-source input switching, thermal monitoring, and graceful pre-depletion shutdown. Manufactured via JLCPCB.
 
 **Battery Management System** — Full-stack BMS with C/C++ firmware, real-time web monitoring, live telemetry graphs, multi-channel voltage/current monitoring via I2C ADC, and cloud backup to PostgreSQL.
-
-**edge-mqtt** – A Python MQTT client Library for edge devices (Raspberry Pi, gateways, field sensors) that never silently drops messages — offline queuing via SQLite, priority-based eviction, inflight tracking, exponential backoff reconnect, TLS and authentication and health check daemon
 
 **controlpad** – A cross-platform Python library for integrating game controllers into robotics, drone, and edge computing projects.
 
