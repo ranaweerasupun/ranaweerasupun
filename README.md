@@ -36,9 +36,9 @@ I care about the full picture: schematic to PCB to firmware to backend to deploy
 
 **Battery Management System** — Full-stack BMS with C/C++ firmware, real-time web monitoring, live telemetry graphs, multi-channel voltage/current monitoring via I2C ADC, and cloud backup to PostgreSQL.
 
-**edge-mqtt**A Python MQTT client Library for edge devices (Raspberry Pi, gateways, field sensors) that never silently drops messages — offline queuing via SQLite, priority-based eviction, inflight tracking, exponential backoff reconnect, TLS and authentication and health check daemon
+**edge-mqtt** – A Python MQTT client Library for edge devices (Raspberry Pi, gateways, field sensors) that never silently drops messages — offline queuing via SQLite, priority-based eviction, inflight tracking, exponential backoff reconnect, TLS and authentication and health check daemon
 
-**controlpad** A cross-platform Python library for integrating game controllers into robotics, drone, and edge computing projects.
+**controlpad** – A cross-platform Python library for integrating game controllers into robotics, drone, and edge computing projects.
 
 ---
 
