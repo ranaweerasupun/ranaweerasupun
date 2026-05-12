@@ -40,11 +40,6 @@ I care about the full picture: schematic to PCB to firmware to backend to deploy
 
 ---
 
-## Find Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://supun-sriyananda.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supun-akalanka-b7425a352)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:supunsriyananda@gmail.com)
 
 ---
 
