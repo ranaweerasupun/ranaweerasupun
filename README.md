@@ -1,11 +1,12 @@
 # Hey, I'm Supun 👋
 
-I'm an embedded systems engineer, currently building production systems at Richard Pieris & Company — robots, edge IoT infrastructure, battery management systems, and real-time video streaming platforms. Before this, I spent several years in Russia working across embedded electronics, fire safety systems, HVAC firmware, and nanofabrication research.
+I'm an embedded systems engineer building production systems at Richard Pieris & Company — robots, edge IoT infrastructure, battery management systems, and real-time video streaming platforms. Day to day I work across IoT data analysis, predictive maintenance, device driver development, and edge AI.
 
-My background is a bit unusual. I started in nanotechnologies, moved through semiconductor physics and solar cell research, and ended up deep in firmware and hardware-software co-design. That path gives me a way of thinking about problems — from the electron level up to the cloud — that I find genuinely useful.
+Before this, I spent several years in Russia working on embedded electronics, fire safety systems and nanofabrication research.
+
+My background is a bit unusual. I started in nanotechnology, moved through semiconductor physics and solar cell research, and ended up deep in firmware and hardware-software co-design. That path gave me a way of reasoning about problems across every layer, from the electron up to the cloud, and it's shaped how I work ever since.
 
 I care about the full picture: schematic to PCB to firmware to backend to deployment. And I document the process, not just the outcome.
-
 ---
 
 ## What I Work With
@@ -36,7 +37,9 @@ I care about the full picture: schematic to PCB to firmware to backend to deploy
 
 **Battery Management System** — Full-stack BMS with C/C++ firmware, real-time web monitoring, live telemetry graphs, multi-channel voltage/current monitoring via I2C ADC, and cloud backup to PostgreSQL.
 
-**controlpad** – A cross-platform Python library for integrating game controllers into robotics, drone, and edge computing projects.
+**controlpad** – A cross-platform Python library for integrating game controllers into robotics, drone, and edge computing projects(pip install controlpad).
+
+**robmqtt** - A robust MQTT client Library that handles network failures, manages storage intelligently, reconnects automatically(pip install robmqtt).
 
 ---
 
