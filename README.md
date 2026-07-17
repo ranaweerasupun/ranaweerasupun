@@ -7,6 +7,7 @@ Before this, I spent several years in Russia working on embedded electronics, fi
 My background is a bit unusual. I started in nanotechnology, moved through semiconductor physics and solar cell research, and ended up deep in firmware and hardware-software co-design. That path gave me a way of reasoning about problems across every layer, from the electron up to the cloud, and it's shaped how I work ever since.
 
 I care about the full picture: schematic to PCB to firmware to backend to deployment. And I document the process, not just the outcome.
+
 ---
 
 ## What I Work With
